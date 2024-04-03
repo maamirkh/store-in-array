@@ -1,0 +1,16 @@
+{
+  "name": "maamikh-store-in-array",
+  "version": "1.0.0",
+  "description": "this is example of array",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.12.3"
+  }
+}
